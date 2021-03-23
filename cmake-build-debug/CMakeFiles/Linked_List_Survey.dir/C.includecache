@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ab/Sync/Macbook/Desktop/C:C++/Linked-List-Survey/information.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+information.h
+/Users/ab/Sync/Macbook/Desktop/C:C++/Linked-List-Survey/information.h
+
+/Users/ab/Sync/Macbook/Desktop/C:C++/Linked-List-Survey/information.h
+
+/Users/ab/Sync/Macbook/Desktop/C:C++/Linked-List-Survey/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+information.h
+/Users/ab/Sync/Macbook/Desktop/C:C++/Linked-List-Survey/information.h
+

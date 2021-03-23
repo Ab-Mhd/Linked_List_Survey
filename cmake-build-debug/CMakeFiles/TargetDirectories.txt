@@ -1,0 +1,3 @@
+/Users/ab/Sync/Macbook/Desktop/C:C++/Linked-List-Survey/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ab/Sync/Macbook/Desktop/C:C++/Linked-List-Survey/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ab/Sync/Macbook/Desktop/C:C++/Linked-List-Survey/cmake-build-debug/CMakeFiles/Linked_List_Survey.dir
